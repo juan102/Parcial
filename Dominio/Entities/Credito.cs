@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Domain.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
 namespace Dominio.Entities
 {
-    public class Credito
+    public class Credito : Entity<int>
     {
         public Credito()
         {

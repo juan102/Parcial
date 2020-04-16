@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\USUARIO\source\repos\Parcial\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb

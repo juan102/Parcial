@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Domain.Base;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Dominio.Entities
 {
-    public class Cuota
+    public class Cuota : Entity<int>
     {
         public double ValorCuota { get; set; }
         public int NumeroCuota { get; set; }
